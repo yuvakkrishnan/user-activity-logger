@@ -1,2 +1,13 @@
 # User Activity Logger
-Simple microservice architecture with Kafka, Redis, JWT, PostgreSQL, and Go.
+
+A simple microservice using Go, Kafka, JWT, Redis, PostgreSQL.
+
+## Stack
+- Go
+- Kafka
+- Redis
+- PostgreSQL
+- JWT
+- Logrus
+- Docker
+- Kubernetes (planned)
